@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davayd
+- 👋 Hi, I’m Dmitry Dreko
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently learning three.js
 
